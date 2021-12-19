@@ -1,4 +1,53 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on sateraの感想文</title><link>https://mayorai.github.io/posts/</link><description>Recent content in Posts on sateraの感想文</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Sun, 19 Dec 2021 00:01:13 +0900</lastBuildDate><atom:link href="https://mayorai.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>ぎのしんが返ってきた</title><link>https://mayorai.github.io/posts/21-12-18-no3/</link><pubDate>Sun, 19 Dec 2021 00:01:13 +0900</pubDate><guid>https://mayorai.github.io/posts/21-12-18-no3/</guid><description>みなさんこんばんは、また会いましたね。 今の時刻は大体深夜1:15分です。深夜ですよ深夜。 とても外は暗いですね。まあ冬なんで割と早めの時間帯で</description><content type="html"><![CDATA[<p>みなさんこんばんは、また会いましたね。</p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on sateraの感想文</title><link>https://mayorai.github.io/posts/</link><description>Recent content in Posts on sateraの感想文</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Sun, 19 Dec 2021 17:00:00 +0900</lastBuildDate><atom:link href="https://mayorai.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>GTAVのMOD導入に関して</title><link>https://mayorai.github.io/posts/21-12-19-no1/</link><pubDate>Sun, 19 Dec 2021 17:00:00 +0900</pubDate><guid>https://mayorai.github.io/posts/21-12-19-no1/</guid><description>はいこんにちは、さてらです。またお会いしましたね。 今日は昨日よりも寒く、足が凍ってしまいそうなほど冷たいです。 新品未使用の靴下を取り出し、装</description><content type="html"><![CDATA[<p>はいこんにちは、さてらです。またお会いしましたね。</p>
+<p>今日は昨日よりも寒く、足が凍ってしまいそうなほど冷たいです。</p>
+<p>新品未使用の靴下を取り出し、装着しました。分厚い靴下ではないので、当然変わったことはありませんが、つけていたほうがマシな気がします。</p>
+<p>布団の中でも、外すことをためらうくらいにはマシってことですよ笑</p>
+<p>まあそんなことは置いといて |_|ヽ(<em>￣▽￣</em>)</p>
+<p>本題です。</p>
+<h3 id="epic版gtavのmod導入についてですね">Epic版GTAVのMOD導入について、ですね。</h3>
+<p>今日私はMODを導入してGTAVで遊んでみたいと思いました。</p>
+<p>まあ当然そのためのツールがいるので、<em><strong>DL</strong></em>したんですけれども。</p>
+<p><em><strong>残念</strong></em>なことに&hellip;今現在から始める場合は、<em><strong>Epic版でMODを導入したプレイはできません！！</strong></em></p>
+<p>その理由＆可能性について語ろうかと思います。</p>
+<h2 id="gtavのバージョンが更新されて前提ツールのmodが適応できていない可能性">GTAVのバージョンが更新されて、前提ツールのMODが適応できていない可能性</h2>
+<p>深刻ですね。かなり深刻な問題ですよ。</p>
+<p>GTAVは、発売から5年以上も経過しているにも関わらず、今現在もアップデートをして盛り上げているのです。（PC版やPS4版等）</p>
+<p>なので、前提MODがGTAVの最新のバージョンに適応できず、導入には成功しても起動が成功しない、なんてこともありえるのです&hellip;</p>
+<p>ためしに二つほど検証してみました。</p>
+<h3 id="１fivemを使用した方法">１．FiveMを使用した方法</h3>
+<hr>
+<p>Epic版のGTAVでMODの導入を試みたものは、必ずと言っていいレベルでFiveMという文字を見かけたかと思われます。</p>
+<p>えぇ、当然私も見ました。導入方法についてのブログも見ました。</p>
+<p>そして実行します。けれど、残念ながら途中の段階でやめました。</p>
+<p>理由は、ブログに書いてある内容と、FiveM.exeが起こした実行内容が<strong>異なったからです。</strong></p>
+<p>少し正確に語ると、Five.exeを実行した際、色々あって(省略)、Pluginというディレクトリが生成される、はずでした。</p>
+<p>ですが&hellip;ないんです。どこにもないんです。自分でPluginという名前のディレクトリを生成しても、そのあとの指示に従っても変化は起きませんでした。</p>
+<p>要するに、ブログが古かったんですよ。FiveMが新しくなって、ブログが古くなったのです。よくあるケースですよ。</p>
+<p>まあそういうことで諦めました。</p>
+<h3 id="２open-ivを使用した方法">２．Open IVを使用した方法</h3>
+<hr>
+<p>これも、FiveM同様に見かけたのではないでしょうか。</p>
+<p>ただ、こちらは自分が見つけたブログがよかったのか、やり方が丁寧に記載されており、とても作業がスムーズに進みました。</p>
+<p>そして導入も成功し、起動を試みます。</p>
+<p>&hellip;起動はします。ただ、すぐにGTAVが処理落ちします。勝手に終了します。</p>
+<p>そして、自分はある一つの要因に思い当たりました。</p>
+<h3 id="script-hook-vが原因">Script Hook Vが原因？</h3>
+<hr>
+<p>私は最初に「GTAVのバージョンが更新されて、前提ツールのMODが適応できていない可能性」説を唱えました。</p>
+<p>実際に２パターンの前提MODを導入した際、それぞれ共通点がありました。</p>
+<p>それは、<em><strong>Script Hook V</strong></em>を双方共に、途中段階で導入していたのです。</p>
+<p>あ、FiveMを導入する際は途中で放棄したので起動とまではいってません。なので共通点とはいえませんが笑</p>
+<p>まあなんにせよ。Script Hook Vが原因と思われます。</p>
+<p>GTAV更新後、Script Hook Vの最新バージョンは出ていません。</p>
+<p>つまり、そういうことなんです。旧バージョン時に作られたScript Hook Vでは、新しいバージョンのGTAVに適応できなかったんです。</p>
+<p><em><strong>まあ憶測ですけどね笑</strong></em></p>
+<h2 id="結論最初に言った通りepic版gtavでは今現在から新しくmod生活を始めることはできません">結論、最初に言った通り、Epic版GTAVでは今現在から新しくMOD生活を始めることはできません。</h2>
+<p>ですがMOD生活自体は今からでも新しく始めることができます。</p>
+<p>Epic版の欠点は、GTAVのバージョンを巻き戻すことはできません。</p>
+<p>ですが、steam版ならどうでしょうか。たしか古いバージョンを指定してインストールできたはずです。</p>
+<p>なので、どうしても今から始めたい方は、steam版の購入を検討してみてはいかがでしょうか。</p>
+<p>以上、さてらの憶測で語るブログでした。ではまたﾉｼ</p>
+]]></content></item><item><title>ぎのしんが返ってきた</title><link>https://mayorai.github.io/posts/21-12-18-no3/</link><pubDate>Sun, 19 Dec 2021 00:01:13 +0900</pubDate><guid>https://mayorai.github.io/posts/21-12-18-no3/</guid><description>みなさんこんばんは、また会いましたね。 今の時刻は大体深夜1:15分です。深夜ですよ深夜。 とても外は暗いですね。まあ冬なんで割と早めの時間帯で</description><content type="html"><![CDATA[<p>みなさんこんばんは、また会いましたね。</p>
 <p>今の時刻は大体深夜1:15分です。深夜ですよ深夜。</p>
 <p>とても外は暗いですね。まあ冬なんで割と早めの時間帯で暗くなるんですけどね笑</p>
 <p>さて、本題です。</p>
